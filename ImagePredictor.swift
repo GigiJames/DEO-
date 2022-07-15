@@ -1,8 +1,8 @@
 //
 //  ImagePredictor.swift
-//  Hebron Plants
+//  DEO Plant disease detector 
 //
-//  Created by Adewale Sanusi on 28/05/2022.
+//  Created by Grace James 28/05/2022.
 //
 
 import Foundation
